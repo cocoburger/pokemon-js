@@ -15,7 +15,7 @@
 - ✅ Layering and Placement of Trees @(done 2023-02-27 22:34)
 - ✅ Landscape Details @(done 2023-03-01 10:39)
 - ✅ Collisions and Map Boundaries @(done 2023-03-01 10:50)
-- Foreground Layers
+- ✅ Foreground Layers @(done 2023-03-01 10:56)
 - Exporting Layers for Project Import
 
 
