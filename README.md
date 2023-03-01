@@ -20,9 +20,9 @@
 
 
 ### `Player and Map Development`
- - Projecy setup
+ - Project setup
  - Import and render map
- - Player cretation
+ - Player creation
  - Move player through map on keydown
  - Player-to-map-boundary collisions
  - Foreground objects
