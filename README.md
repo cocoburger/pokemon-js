@@ -16,7 +16,7 @@
 - ✅ Landscape Details @(done 2023-03-01 10:39)
 - ✅ Collisions and Map Boundaries @(done 2023-03-01 10:50)
 - ✅ Foreground Layers @(done 2023-03-01 10:56)
-- Exporting Layers for Project Import
+- ✅ Exporting Layers for Project Import  @(done 2023-03-01 11:03)
 
 
 ### `Player and Map Development`
