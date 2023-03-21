@@ -7,9 +7,9 @@
 ### `Map Creation with Tiled Map Editor`
 
 - Downloads and Setup
-   - ✅ Find assets @(done, 2023-02-25)
-   - ✅ Download Tiled @(done, 2023-02-27 22:15)
-   - ✅ Import into project @(done, 2023-02-27 22:15)
+    - ✅ Find assets @(done, 2023-02-25)
+    - ✅ Download Tiled @(done, 2023-02-27 22:15)
+    - ✅ Import into project @(done, 2023-02-27 22:15)
 - ✅ Tile Layering for Ocean and Landmasses @(done, 2023-02-27 22:15)
 - ✅ Tile Layering for a Plateau @(done, 2023-02-27 22:15)
 - ✅ Tile Layering for a house @(done, 2023-02-27 22:29)
@@ -22,9 +22,9 @@
 
 ### `Player and Map Development`
 
-- ✅ Project setup (2023-03-15 23:45)
-- Import and render map
-- Player creation
+- ✅ Project setup @(done 2023-03-15 23:45)
+- ✅ Import and render map @(done 2023-03-16 23:17)
+- ✅ Player creation @(done 2023-03-21 20:55)
 - Move player through map on keydown
 - Player-to-map-boundary collisions
 - Foreground objects
