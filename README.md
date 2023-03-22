@@ -25,7 +25,7 @@
 - ✅ Project setup @(done 2023-03-15 23:45)
 - ✅ Import and render map @(done 2023-03-16 23:17)
 - ✅ Player creation @(done 2023-03-21 20:55)
-- Move player through map on keydown
+- ✅ Move player through map on keydown @(done 2023-03-22 23:02)
 - Player-to-map-boundary collisions
 - Foreground objects
 - Player movement animation
