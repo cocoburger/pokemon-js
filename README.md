@@ -28,7 +28,7 @@
 - ✅ Move player through map on keydown @(done 2023-03-22 23:02)
 - ✅ Player-to-map-boundary collisions @(done 2023-03-25 15:27)
 - ✅ Foreground objects @(done 2023-03-25 17:55)
-- Player movement animation
+- ✅ Player movement animation @(done 2023-03-25 23:05)
 
 ### `Battle Sequences`
 
